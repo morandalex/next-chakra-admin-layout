@@ -1,6 +1,6 @@
 # NEXT CHAKRA ADMIN LAYOUT
 
-A fully configurable next chakra admin layout built with next.
+A fully configurable next chakra admin layout built on next.
 
 
 
