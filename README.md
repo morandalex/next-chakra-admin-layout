@@ -15,7 +15,9 @@ A fully configurable next chakra admin layout built with next.
 
     yarn build
 
+## check on vercel
 
+https://next-chakra-admin-layout.vercel.app/
 
 
 
