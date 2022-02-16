@@ -1,6 +1,3 @@
-// import
-
-
 import {
   HomeIcon,
   StatsIcon,
@@ -10,7 +7,6 @@ import {
   RocketIcon,
   SupportIcon,
 } from "../components/Icons/Icons";
-
 var Routes = [
   {
     path: "/",
